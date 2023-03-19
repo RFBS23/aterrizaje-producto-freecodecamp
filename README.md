@@ -4,6 +4,6 @@ Constituye la primera parte de mi cartera de codificación.
 
 Puedes ver este proyecto en vivo en la siguiente URL:
 
-https://fabriziobarriossaavedra.github.io/aterrizaje-producto-freecodecamp/
+https://rfbs23.github.io/aterrizaje-producto-freecodecamp/
 
 ¡Disfrutar!
